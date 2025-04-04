@@ -6,7 +6,7 @@
 |Nombre |Edad |Ciudad |
 |--------|-----|------|
 |Julian | 26 | cali |
-|jacob | 29|cali|
+|jacob gonzalez| 29|cali|
 |karen|30 y pico|cali|
 
 
