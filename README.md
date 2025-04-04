@@ -26,3 +26,16 @@ def saludar (usuario):print(f`` hola,{usuario})
 
 ![logo](https://bandai.com.mx/blog/wp-content/uploads/2017/12/decom_42ce9d2324e9029d53c2bb50f502a191_5a31a1b499f40.gif)
 
+
+|Trabajos| comida | color|
+|--------|--------|------|
+| 2| 2|2|
+
+
+
+|1|2|3|
+|---|---|---|
+|.|.|.|
+
+
+
